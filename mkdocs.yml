@@ -1,0 +1,15 @@
+site_name: wiki.js-wrapper
+site_url: https://test.com/
+theme:
+  name: material
+nav:
+  - "Home": "index.md"
+  - "Classes":
+      - "Client": "classes/client.md"
+      - "PageManager": "classes/pagemanager.md"
+  - "Structures":
+      - "PageObject": "structures/pageobject.md"
+      - "PageSearchResponse": "structures/pagesearchresponse.md"
+      - "PageSearchResult": "structures/pagesearchresult.md"
+      - "PageTag": "structures/pagetag.md"
+      - "SearchPageQuery": "structures/searchpagequery.md"

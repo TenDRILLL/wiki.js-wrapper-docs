@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://test.com/</loc>
+         <loc>https://tendrilll.github.io/wiki.js-wrapper-docs/</loc>
          <lastmod>2022-10-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://test.com/classes/client/</loc>
+         <loc>https://tendrilll.github.io/wiki.js-wrapper-docs/classes/client/</loc>
          <lastmod>2022-10-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://test.com/classes/pagemanager/</loc>
+         <loc>https://tendrilll.github.io/wiki.js-wrapper-docs/classes/pagemanager/</loc>
          <lastmod>2022-10-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://test.com/structures/pageobject/</loc>
+         <loc>https://tendrilll.github.io/wiki.js-wrapper-docs/structures/pageobject/</loc>
          <lastmod>2022-10-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://test.com/structures/pagesearchresponse/</loc>
+         <loc>https://tendrilll.github.io/wiki.js-wrapper-docs/structures/pagesearchresponse/</loc>
          <lastmod>2022-10-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://test.com/structures/pagesearchresult/</loc>
+         <loc>https://tendrilll.github.io/wiki.js-wrapper-docs/structures/pagesearchresult/</loc>
          <lastmod>2022-10-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://test.com/structures/pagetag/</loc>
+         <loc>https://tendrilll.github.io/wiki.js-wrapper-docs/structures/pagetag/</loc>
          <lastmod>2022-10-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://test.com/structures/searchpagequery/</loc>
+         <loc>https://tendrilll.github.io/wiki.js-wrapper-docs/structures/searchpagequery/</loc>
          <lastmod>2022-10-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
